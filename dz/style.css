@@ -1,0 +1,62 @@
+body {
+	background-color: bisque;
+}
+
+a {
+	text-decoration: none;
+}
+
+.link {
+	color: orange;
+	font-size: 16px;
+	line-height: 16px;
+}
+
+#mainlink {
+	font-size: 22px;
+	color: rgb(255, 140, 0);
+}
+
+#textBold {
+	font-size: 22px;
+	font-weight: bold;
+	color: rgb(179, 99, 0);
+}
+
+.title {
+	color: #222222;
+	font-size: 28px;
+	line-height: 36px;
+	font-weight: bold;
+}
+
+.text {
+	color: chocolate;
+	font-style: normal;
+	font-size: 18px;
+	line-height: 30px;
+	font-weight: 700;
+}
+
+.picture {
+	border-radius: 15px;
+	width: 300px;
+}
+
+.inputText {
+	width: 200px;
+	height: 35px; /*Изначально 30px*/
+	outline: none; /*Выделение элемента*/
+	border: 1px solid #ccc; /*Рамка толщиной 1px, solid Это непрерывная линия*/
+	border-radius: 15px; /*Скругление углов*/
+	font-size: 14px;
+	line-height: 30px; /*Высота строки(не играет роли из за ограничения height)*/
+}
+
+.buttonSt {
+	width: 100px;
+	height: 30px;
+	font-size: 14px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
