@@ -1,5 +1,7 @@
-# Картинки сайта
-Нажмите [сюда](https://github.com/JinkNotFound/htmlDz2/archive/refs/heads/main.zip) чтобы скачать файл
+**Скачать файл**
+
+[![Download](https://img.shields.io/badge/Download-00BFFF?style=for-the-badge&logo=&logoColor=white)](https://github.com/JinkNotFound/htmlDz2/archive/refs/heads/main.zip)
+## Картинки сайта
 ## Главная страница
 ![Главная страница](dz/img/111site.png)
 
